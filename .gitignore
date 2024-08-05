@@ -1,0 +1,16 @@
+
+/target
+/.idea
+*.iml
+*.class
+/logs
+*.log
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+/.project
+/.classpath
+/.settings
+/.vscode
